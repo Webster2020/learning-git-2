@@ -1,8 +1,11 @@
 body {
   background-color: cornflowerblue;
 }
+footer {
+  display: flex;
+}
 .container {
-  background-color: cornsilk;
+  background-color:cornsilk;
   margin: 70px auto;
   padding: 30px;
   width: 270px;
