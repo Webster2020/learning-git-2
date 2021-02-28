@@ -3,10 +3,11 @@ body {
 }
 .container {
   background-color: cornsilk;
-  margin: 50px auto;
+  margin: 70px auto;
   padding: 30px;
-  width: 300px;
+  width: 270px;
   text-align: center;
+  color:indigo;
   font-family: Georgia, 'Times New Roman', Times, serif;
   border: 2px solid black;
   border-radius: 5%;
