@@ -8,6 +8,8 @@ body {
   width: 300px;
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 2px solid black;
+  border-radius: 5%;
 }
 .title {
   font-size: 40px;
